@@ -52,4 +52,4 @@ int main( ){
      }
 
      cout << "Thanks for playing \n \n ";
-}
+}//this is cool
